@@ -1,0 +1,56 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#212121'
+    - '#A9A9A9'
+    - '#636363'
+  brandStrength: 0.8520139772444963
+  lightness: 0.7927199781406671
+  saturation: 0.7839931545313448
+  rhythmicContrast: 0.40134040522389114
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: FADO
+layout_spectrum: 0.5124627822078764
+typography_spectrum: 0.5179108714219183
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c29a94-6d90-40b6-b4dd-f6ff53df059a.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c29a94-6d90-40b6-b4dd-f6ff53df059a.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: FADO
+description: ''
+purpose:
+  - type: internal
+    label: d
+    item: 542acbea-7cc5-48fb-99a2-5ee417881eb7
+author:
+  name: Jean Michel Gomes
+  email: neutrinomuon@gmail.com
+github: true
